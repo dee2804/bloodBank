@@ -7,7 +7,7 @@ import com.deepankar.donor.Donor;
 @Repository
 	public interface DonorRepo extends JpaRepository<Donor, Long>{
 
-	  boolean findByDonor(Donor donor);
+	//  boolean findByDonor(Donor donor);
 
 //	  Customer findById(long id);
 	}
