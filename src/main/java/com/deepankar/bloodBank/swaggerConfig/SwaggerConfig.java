@@ -1,4 +1,4 @@
-package com.deepankar.swaggerConfig;
+package com.deepankar.bloodBank.swaggerConfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

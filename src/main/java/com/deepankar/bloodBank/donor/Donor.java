@@ -1,4 +1,4 @@
-package com.deepankar.donor;
+package com.deepankar.bloodBank.donor;
 
 import javax.persistence.*;
 
